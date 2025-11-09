@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dasuni Thimasha</h1>
 <h3 align="center">A passionate Software Engineer from SriLanka</h3>
 
-- 🌱 I’m currently learning **Java,PHP,C#**
+- 🌱 I’m currently learning **Java,Springboot,MERN**
 
-- 💬 Ask me about **Java,C**
+- 💬 Ask me about **Java,MERN**
 
 - 📫 How to reach me **dasunithimasha25@gmail.com**
 
